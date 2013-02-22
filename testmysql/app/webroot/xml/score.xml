@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<User>
+		<Userscourse>
+		<cid>1</cid>
+		<uid>1</uid>
+		<score>120</score>
+		</Userscourse>
+		<Userscourse>
+		<cid>2</cid>
+		<uid>1</uid>
+		<score>120</score>
+		</Userscourse>
+		<Userscourse>
+		<cid>3</cid>
+		<uid>1</uid>
+		<score>120</score>
+		</Userscourse>
+		<Userscourse>
+		<cid>4</cid>
+		<uid>1</uid>
+		<score>120</score>
+		</Userscourse>
+</User>
